@@ -1,0 +1,75 @@
+.N{text-align: left;
+font-size: 24px;
+padding-left:20rem;
+padding-right:30rem;
+font-family:sans-serif;
+font-weight:900;
+text-transform: uppercase;}
+
+div ul li{display: inline-block;}
+
+.clicaveis{padding:20px;
+font-size: 16px;
+font-family:"Poppins",Arial,sans-serif;
+font-weight: 800;}
+
+.clicaveis:hover{cursor: pointer;
+text-decoration:underline;
+text-decoration-color:#007bff;
+color:#007bff}.homi {text-align: left;
+padding-top: 15px;}
+
+.cubao{background-color:cornflowerblue;
+width:800px;
+height:600px;
+z-index:-2;
+top:0;
+right:0;
+position: absolute;}
+
+.homi:hover{cursor: pointer;}
+
+img {font-family:"Poppins",Arial,sans-serif;
+font-size:16px;}
+
+img {position: absolute;
+z-index: -1;
+left:650px;}
+
+p{margin-left:500px;
+margin-top: 150px;
+font-size: 1em;
+color: blue;
+font-family:;}
+
+h1{margin-left:500px;
+font-size:3em;
+font-family: "Poppins",Arial,sans-serif;
+font-weight: bold;}
+
+h3{margin-left:500px;
+font-size:2em;
+font-family: "Poppins",Arial,sans-serif;}
+
+strong{color:blue;}
+
+.hireme{text-align: center;
+color:#0075F6;
+border:#0075f6 solid;
+margin-left: 500px;
+border-width:0.5px;
+width: 100px;
+padding: 5px;}
+.hireme a {font-size: 16px;
+line-height: 1.5;
+font-family:"Poppins",Arial,sans-serif;
+font-weight: bold;
+text-align: center;}
+
+.hello{color: #0075F6;
+font-family: "Poppins",Arial,sans-serif;
+font-weight: bold;
+font-size: 16px;}
+
+span {color: #0075F6;}
+

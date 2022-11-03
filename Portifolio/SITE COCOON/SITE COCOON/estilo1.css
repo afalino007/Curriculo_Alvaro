@@ -1,0 +1,99 @@
+.cabecalholateral {background-color:#18181c;
+width: 17.5%;
+height:173.5%;
+top:0;
+left:0;
+top:0;
+right:0;
+position: absolute;
+opacity: 100%;}
+
+.cabecalholateral img{padding-left:10%;
+padding-top: 2rem;
+padding-bottom: 50px;
+width:70%;}
+
+.list{font-family:"Montserrat",sans-serif;
+color: #ffffff;
+list-style: none;
+padding:18px 0px 12px 20px;
+font-size:17px;}
+
+h4{color: #99896e;
+font: 15px;
+font-family:"Montserrat",sans-serif;
+padding-left: 60px;
+padding-top: 35px;}
+
+.list:hover {cursor: pointer;
+background-color: #99896e;
+transition:all 0.4s cubic-bezier(0, 3.74, 1, -1.55);}
+
+.homi{position: absolute;
+margin-left: 19.6%;
+height: 79%;
+margin-top:3%;}
+
+.homi:hover{cursor:crosshair;}
+
+.mulheres{position: absolute;
+margin-top: 39%;
+width:18%;
+margin-left: 19.6%;}
+
+.mulheres:hover{cursor:crosshair;}
+
+.bibilioteca{position:absolute;
+margin-left:37.6%;
+margin-top: 21%;
+width: 18%;}
+
+.bibilioteca:hover{cursor:crosshair;}
+
+.mao{position:absolute;
+padding-top: 39%;
+margin-left:37.6%;
+width: 18%;}
+
+.mao:hover{cursor:crosshair;}
+
+.sinal{position: absolute;
+margin-left: 37.6%;
+width:36%;
+margin-top: 3%;}
+
+.sinal:hover{cursor: crosshair;}
+
+.ceu{margin-left:73.6%;
+margin-top:3%;
+width:18%;
+position: absolute;}
+
+.ceu:hover{cursor:crosshair;}
+
+.brancao{width:18%;
+position: absolute;
+margin-left:55.6%;
+margin-top:21%;}
+
+.brancao:hover{cursor: crosshair;}
+
+.cafe{position: absolute;
+margin-left:73.6%;
+margin-top:21%;
+width:18%;}
+
+.cafe:hover{cursor:crosshair;}
+
+.ceu2{width:36%;
+margin-left: 55.6%;
+position: absolute;
+margin-top: 39%;}
+
+#icon{margin-top:29%;
+width:10%;
+display:inline-block;}
+
+.imagens{margin-left:2%;
+margin-top:1%;}
+
